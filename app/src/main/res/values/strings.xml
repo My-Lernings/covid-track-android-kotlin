@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CovTrack</string>
+    <string name="stateTxtRes">State</string>
+    <string name="deathTxt">Death</string>
+    <string name="negativeTxt">Negative</string>
+    <string name="positiveTxt">Positive</string>
+</resources>
